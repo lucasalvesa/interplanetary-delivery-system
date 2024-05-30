@@ -1,0 +1,21 @@
+.standard-style {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background: url('../../assets/firstBackGround.avif');
+    background-size: cover;
+    box-shadow: black 0px 0px 5px;
+    padding: 0 20px;
+}
+
+.text-danger {
+    font-size: 1rem;
+    font-weight: 500;
+    margin-bottom: -5px;
+}
+
+.input-error {
+    outline: 1px solid red;
+  }
