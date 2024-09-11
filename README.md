@@ -56,7 +56,3 @@ Uma issue já identificada no projeto é a dificuldade em integrar o hook useCou
 ### Possível Solução
 
 Investigar formas de integrar o useCountryCityState no AddressModal, permitindo que os campos de país, estado e cidade sejam listas suspensas mesmo durante a edição de endereços. Isso pode exigir ajustes na estrutura e lógica do componente, garantindo uma experiência de edição consistente e intuitiva para o usuário.
-
-## Comentários
-
-- Aguardo a oportunidade de nos conhecermos melhor e compartilhar mais sobre meu desejo de somar à equipe! 🌟 😉
